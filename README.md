@@ -1,2 +1,7 @@
-# Loan-Management-System-using-Python
-The problem Loan Management System using Python solves It helps to calculate the interest rate and details of payment of your loan on your own and avoids any cheating which have been frequent nowadays and is being done by some agencies.  Challenges we ran into Developing a loan management system using Python can present several challenges,
+# Loan-Managment-System
+A loan management system is a software application that helps financial institutions such as banks, credit unions, and microfinance organizations manage and track their loan portfolios. 
+To use this application,use default:
+Username = "admin",
+Password= "admin".
+
+It is developed by SkDevilS with Love 
